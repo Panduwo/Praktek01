@@ -17,5 +17,6 @@ public class MahasiswaAksi {
         Pandu.NPM = "2110010232";
         Pandu.IPK = 4.0;
         
+		Pandu.CetakInfo();
     }
 }
